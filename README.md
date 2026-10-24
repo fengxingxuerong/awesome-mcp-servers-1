@@ -294,6 +294,7 @@ Official integrations are maintained by companies building production ready MCP 
 
 A growing set of community-developed and maintained servers demonstrates various applications of MCP across different domains.
 
+- **[AI Handoff Kanban](https://github.com/fengxingxuerong/ai-handoff-kanban)** - Local-first kanban for people who switch AI coding agents: per-project handoff packs and self-contained takeover pages, AGENTS.md projected to 9 entry files, a 23-tool MCP server with incremental context slices, and LLM self-supervision. Windows single-file exe; all data stays local.
 - **[AllInOneMCP](https://github.com/particlefuture/MCPDiscovery) - MCP of MCPs. A central hub for MCP servers. Helps you discover available MCP servers and learn how to install and use them. REMOTE! Use the url [https://mcp.pfvc.io/mcp/](https://mcp.pfvc.io/mcp/) to add the server. **Remember the final backslash\*\*.
 - **[Airtable](https://github.com/domdomegg/airtable-mcp-server)** - Read and write access to Airtable databases.
 - **[Agentset](https://github.com/agentset-ai/mcp-server)** - RAG MCP for your [Agentset](https://agentset.ai/) data.
